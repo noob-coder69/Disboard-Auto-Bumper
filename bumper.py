@@ -20,7 +20,7 @@ async def on_ready():
 async def bla(ctx):
     while True:
         await ctx.send("!d bump")
-        time.sleep(8125)
+        time.sleep(7500)
 
 
 
